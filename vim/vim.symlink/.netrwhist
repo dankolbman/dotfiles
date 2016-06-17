@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/dan/Downloads/root@dankolbman.xyz'
+let g:netrw_dirhist_2='/Users/dan/Documents/visualboyadvance/cmake'
+let g:netrw_dirhist_3='/Users/dan/Documents/kaggle_notebooks'
+let g:netrw_dirhist_4='/Users/dan/Documents/kaggle_notebooks/homedepot'
+let g:netrw_dirhist_5='/Users/dan/.dotfiles/zsh'
+let g:netrw_dirhist_6='/Users/dan/.dotfiles/homebrew'
